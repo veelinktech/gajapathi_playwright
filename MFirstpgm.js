@@ -25,8 +25,6 @@ function login()
 
 console.log("JS")
 console.log("TS")
-
-
   
 add()
 sub()
