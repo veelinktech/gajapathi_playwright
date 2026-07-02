@@ -22,6 +22,11 @@ function login()
 {
   console.log("Login")
 }
+
+console.log("JS")
+console.log("TS")
+
+
   
 add()
 sub()
