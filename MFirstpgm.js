@@ -14,7 +14,10 @@ function Div()
 {
   console.log("Div result =",10/5)
 }
-
+function mod()
+{
+  console.log("Mod result = " , 10 % 3)
+}
 function login()
 {
   console.log("Login")
@@ -27,5 +30,6 @@ add()
 sub()
 mul()
 Div()
+mod()
 login()
 
