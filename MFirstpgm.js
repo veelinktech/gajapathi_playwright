@@ -14,9 +14,15 @@ function Div()
 {
   console.log("Div result =",10/5)
 }
+
+function login()
+{
+  console.log("Login")
+}
   
 add()
 sub()
 mul()
 Div()
+login()
 
